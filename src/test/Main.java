@@ -37,7 +37,7 @@ public class Main {
             add.append("[4] - Multiplicação");
             System.out.println(add.toString());
             int esolhaTabuada = input.nextInt();
-            System.out.println("====================");
+            System.out.println("===================="); 
             switch (esolhaTabuada) {
                 // case 1 é a tabuada de soma ela vai do 1 ate o 10
                 case 1:
